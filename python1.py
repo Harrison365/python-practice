@@ -1,3 +1,5 @@
+#run using python <file name>
+
 #theres no var let or const in python
 
 x=6
